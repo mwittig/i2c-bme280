@@ -1,4 +1,6 @@
 # bme-280 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/i2c-bme280.svg)](https://greenkeeper.io/)
 > cool
 
 ## Installation
